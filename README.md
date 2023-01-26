@@ -38,17 +38,6 @@
 
 <br>
 
-## Screenshots.
-
-<h5>Device</h5>
-Pixel 3 
-
-
-
-|Settings| Nethunter Interface |
-|--|--|
-| <img src="https://raw.githubusercontent.com/ImageHostx/ImageHostx.github.io/main/phone.png" width="300px">| <img src="https://raw.githubusercontent.com/ImageHostx/ImageHostx.github.io/main/nethunter.png" width="300px">
-
 
 
 |Tplink wn722n v1| Tplink wn722n v3 |
@@ -58,13 +47,6 @@ Pixel 3
 <br>
 <br>
 
-
-## Version Information
-
-
-|Status | SR-Date | Created | Updated |
-|-------|---------------------|---------|--------------|
-| Stable | 12/06/2022 | 13/06/2022 | 13/06/2022 |
 
 
 
