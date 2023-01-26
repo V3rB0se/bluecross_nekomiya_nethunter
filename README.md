@@ -58,13 +58,6 @@ Pixel 3
 <br>
 <br>
 
-## Contribution.
-
-
-| [Kimocoder](https://github.com/kimocoder)|[Darkar25](https://github.com/Darkar25)|
-|-------|---------------------|---------|--------------|
-|<img src="https://avatars.githubusercontent.com/u/4252297?v=4" width="100px">|<img src="https://avatars.githubusercontent.com/u/59805901?s=200&v=4" width="100px">|<img src="https://avatars.githubusercontent.com/u/59805901?s=200&v=4" width="100px">|<img src="https://avatars.githubusercontent.com/u/59805901?s=200&v=4" width="100px">
-
 
 ## Version Information
 
