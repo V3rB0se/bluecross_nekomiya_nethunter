@@ -40,12 +40,6 @@
 
 
 
-|Tplink wn722n v1| Tplink wn722n v3 |
-|--|--|
-| <img src="https://raw.githubusercontent.com/ImageHostx/ImageHostx.github.io/main/ath9k.png" width="300px">| <img src="https://raw.githubusercontent.com/ImageHostx/ImageHostx.github.io/main/rtl8188.png" width="300px">
-
-<br>
-<br>
 
 
 
