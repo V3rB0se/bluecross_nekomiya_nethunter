@@ -10,8 +10,8 @@
 
 ## Supported Devices
 
-- Pixel 3 (blueline) Stock / PixelDust
-- Pixel 3XL (crosshatch) Stock / PixelDust 
+- Pixel 3   (blueline)   Pixel Experience 13
+- Pixel 3XL (crosshatch) Pixel Experience 13
 
 ## Features
  1. Internal wifi monitor mode (frame injection not working)
